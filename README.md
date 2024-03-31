@@ -213,3 +213,5 @@ Feel free to open a pull request. There is a `snap` branch to play with.
 <a href="https://github.com/localsend/localsend/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=localsend/localsend"  alt="Localsend Contributors"/>
 </a>
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/localsend/localsend.svg?variant=light)](https://starchart.cc/localsend/localsend)
